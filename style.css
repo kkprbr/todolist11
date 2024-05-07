@@ -1,0 +1,24 @@
+.container{
+    background-color: rgba(241, 221, 221, 0.767);
+    width: 320px;
+    height: 80vh;
+}
+.main-heading{
+    margin-top: 10px;
+}
+.sub-heading{
+    color: blue;
+}
+.habbit1{
+    margin: 15px;
+    margin-right: 15px;
+}
+.habbit2{
+    margin: 15px;
+    text-decoration: line-through;
+    color: rgba(136, 134, 134, 0.521);
+    font-style: italic;
+}
+.btm-habbit{
+    margin: 15px;
+}
